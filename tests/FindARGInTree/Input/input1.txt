@@ -1,0 +1,9 @@
+# Search Strain
+Strain1
+
+# ARG Tree
+Node 0: Strain1 ATCG [0,24]
+Node 1: Strain2 GCTA [0,-1]
+Node 2: Strain3 CGAT [24,-1]
+Node 3: Ancestor_1 [] -> [0,1]
+Node 4: Ancestor_2 [] -> [2,3]

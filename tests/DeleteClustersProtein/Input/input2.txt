@@ -1,0 +1,7 @@
+# Clusters
+Strain1 ATCG [0,24]
+Strain2 GCTA [0,-1]
+Strain3 CGAT [24,-1]
+
+# Parameters
+1 2

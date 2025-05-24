@@ -1,0 +1,4 @@
+Cluster 0: Strain1 ATCG [0,24]
+Cluster 1: Strain2 GCTA [0,-1]
+Cluster 2: Strain3 CGAT [24,-1]
+Cluster 3: Strain4 TAGC [15,45]

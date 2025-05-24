@@ -1,0 +1,3 @@
+Node 0: MAEGEITTFTALTEKF
+Node 1: MKWVTFISLLLLFSSAY
+Node 2: Ancestor_1 [] -> [0,1]

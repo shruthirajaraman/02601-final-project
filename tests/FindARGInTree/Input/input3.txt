@@ -1,0 +1,13 @@
+# Search Strain
+Strain3
+
+# ARG Tree
+Node 0: Strain1 ATCG [0,24]
+Node 1: Strain2 GCTA [15,45]
+Node 2: Strain3 CGAT [24,-1]
+Node 3: Strain4 TAGC [30,50]
+Node 4: Strain5 GACT [10,35]
+Node 5: Ancestor_1 [] -> [0,1]
+Node 6: Ancestor_2 [] -> [2,3]
+Node 7: Ancestor_3 [] -> [4,5]
+Node 8: Ancestor_4 [] -> [6,7]

@@ -1,0 +1,9 @@
+Node 0: MAEGEITTFTALTEKF
+Node 1: MKWVTFISLLLLFSSAY
+Node 2: MVLSPADKTNVKAAWGK
+Node 3: MALWMRLLPLLALLAL
+Node 4: MGLWASFTTLVLCALA
+Node 5: Ancestor_1 [] -> [0,1]
+Node 6: Ancestor_2 [] -> [2,3]
+Node 7: Ancestor_3 [] -> [4,5]
+Node 8: Ancestor_4 [] -> [6,7]

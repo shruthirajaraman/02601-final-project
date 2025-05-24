@@ -1,0 +1,7 @@
+Node 0: Strain1 ATCG [0,24]
+Node 1: Strain2 GCTA [0,-1]
+Node 2: Strain3 CGAT [24,-1]
+Node 3: Strain4 TAGC [15,45]
+Node 4: Ancestor1 [] -> [0,1]
+Node 5: Ancestor2 [] -> [2,3]
+Node 6: Ancestor3 [] -> [4,5]

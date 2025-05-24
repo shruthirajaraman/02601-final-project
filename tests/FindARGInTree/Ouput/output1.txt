@@ -1,0 +1,4 @@
+ARG:
+GenomeStrain: Strain1
+Nucleotides: ATCG
+IndexInGenome: [0,24]

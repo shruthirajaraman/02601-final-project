@@ -1,0 +1,4 @@
+ARG:
+GenomeStrain: Strain3
+Nucleotides: CGAT
+IndexInGenome: [24,-1]

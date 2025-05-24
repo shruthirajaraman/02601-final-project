@@ -1,0 +1,9 @@
+Node 0: ATCGATCGATCG ATCG [0,4] ATCG
+Node 1: GCTAGCTAGCTA GCTA [0,4] ATCG
+Node 2: CGTAGCTAGCTA CGTA [0,4] ATCG
+Node 3: TAGCTAGCTACG TAGC [0,4] ATCG
+Node 4: AGCTAGCTACGT AGCT [0,4] ATCG
+Node 5: Ancestor Strain: 5
+Node 6: Ancestor Strain: 6
+Node 7: Ancestor Strain: 7
+Node 8: Ancestor Strain: 8

@@ -1,0 +1,3 @@
+Strain1 ATCG [0,24]
+Strain2 GCTA [0,-1]
+Strain5 GACT [30,60]

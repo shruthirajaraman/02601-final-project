@@ -1,0 +1,1 @@
+Node 0: Strain1 ATCG [0,24]

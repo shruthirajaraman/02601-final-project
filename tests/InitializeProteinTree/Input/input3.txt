@@ -1,0 +1,31 @@
+# AA Sequences
+MAEGEITTFTALTEKF
+MKWVTFISLLLLFSSAY
+MVLSPADKTNVKAAWGK
+MALWMRLLPLLALLAL
+MGLWASFTTLVLCALA
+
+# Genome Strains
+Strain1
+Strain2
+Strain3
+Strain4
+Strain5
+
+# Genome Names
+Name1
+Name2
+Name3
+Name4
+Name5
+
+# ARG Tree
+Node 0: Strain1 ATCG [0,24]
+Node 1: Strain2 GCTA [0,-1]
+Node 2: Strain3 CGAT [24,-1]
+Node 3: Strain4 TAGC [15,45]
+Node 4: Strain5 GACT [30,60]
+Node 5: Ancestor_1 [] -> [0,1]
+Node 6: Ancestor_2 [] -> [2,3]
+Node 7: Ancestor_3 [] -> [4,5]
+Node 8: Ancestor_4 [] -> [6,7]

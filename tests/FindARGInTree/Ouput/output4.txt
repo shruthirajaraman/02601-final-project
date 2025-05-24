@@ -1,0 +1,4 @@
+ARG:
+GenomeStrain: Strain2
+Nucleotides: GCTA
+IndexInGenome: [24,48]

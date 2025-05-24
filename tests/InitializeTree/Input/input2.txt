@@ -1,0 +1,18 @@
+# Genome Strains
+ATCGATCGATCG
+GCTAGCTAGCTA
+CGTAGCTAGCTA
+
+# Genome Names
+Name1
+Name2
+Name3
+
+# Search String
+ATCG
+
+# ARG Name
+TestARG2
+
+# Percent Identity
+0.95

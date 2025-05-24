@@ -1,0 +1,1 @@
+((Genome4[&&NHX:S=0.500:E=Genome4],Genome5[&&NHX:S=0.600:E=Genome5])Genome2[&&NHX:S=0.500:E=Genome2],(Genome6[&&NHX:S=0.900:E=Genome6],Genome7[&&NHX:S=0.750:E=Genome7])Genome3[&&NHX:S=0.750:E=Genome3])Genome1[&&NHX:S=0.000:E=Genome1]

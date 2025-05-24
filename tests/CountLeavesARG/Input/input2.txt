@@ -1,0 +1,3 @@
+Node 0: Strain1 ATCG [0,24]
+Node 1: Strain2 GCTA [0,-1]
+Node 2: Ancestor1 [] -> [0,1]

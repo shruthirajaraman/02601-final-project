@@ -1,0 +1,9 @@
+Node 0: MAEGEITTFTALTEKF [0,24]
+Node 1: MKWVTFISLLLLFSSAY [0,-1]
+Node 2: MVLSPADKTNVKAAWGK [24,-1]
+Node 3: MALWMRLLPLLALLAL [15,45]
+Node 4: MGLWASFTTLVLCALA [30,60]
+Node 5: Ancestor Protein: 5
+Node 6: Ancestor Protein: 6
+Node 7: Ancestor Protein: 7
+Node 8: Ancestor Protein: 8

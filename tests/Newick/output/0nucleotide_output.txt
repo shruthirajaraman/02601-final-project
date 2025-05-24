@@ -1,0 +1,1 @@
+(Genome2[&&NHX:S=0.500:E=Genome2],Genome3[&&NHX:S=0.750:E=Genome3])Genome1[&&NHX:S=0.000:E=Genome1]

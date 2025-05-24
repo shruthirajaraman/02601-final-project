@@ -1,0 +1,14 @@
+1 2
+1 3
+2 4
+2 5
+3 6
+3 7
+
+1 0.0 1 Genome1
+2 0.5 2 Genome2
+3 0.75 3 Genome3
+4 0.5 4 Genome4
+5 0.6 5 Genome5
+6 0.9 6 Genome6
+7 0.75 7 Genome7

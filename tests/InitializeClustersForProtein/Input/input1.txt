@@ -1,0 +1,3 @@
+Node 0: MAEGEITTFTALTEKF [0,24]
+Node 1: MKWVTFISLLLLFSSAY [0,-1]
+Node 2: Ancestor Protein: 2

@@ -1,0 +1,10 @@
+# Clusters
+Strain1 ATCG [0,24]
+Strain2 GCTA [0,-1]
+Strain3 CGAT [24,-1]
+Strain4 TAGC [15,45]
+Strain5 GACT [30,60]
+Strain6 CTAG [10,35]
+
+# Parameters
+3 4
